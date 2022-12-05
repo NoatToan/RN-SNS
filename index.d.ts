@@ -1,0 +1,1 @@
+declare module "@toannguyen1510/rn-social-login";
